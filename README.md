@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 The Travelling Salesman Problem (TSP) defines a situation where a ‘salesman’ needs to visit 𝑛
-number of cities via the shortest route possible, starting and ending at the same city. This is normallyfound using heuristic algorithms, in this case the simulated annealing (SA) algorithm will be used to find the most optimal tour.
+number of cities via the shortest route possible, starting and ending at the same city. This is normally found using heuristic algorithms, in this case the simulated annealing (SA) algorithm will be used to find the most optimal tour.
 
 However, the travelling salesman problem seems to occur in a perfect world that does not account
 for any problems or external factors that may occur, thus, this report will be exploring how adding
